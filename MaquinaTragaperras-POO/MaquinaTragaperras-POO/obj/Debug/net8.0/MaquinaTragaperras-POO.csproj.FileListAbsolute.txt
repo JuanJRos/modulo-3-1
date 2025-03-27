@@ -1,0 +1,14 @@
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\bin\Debug\net8.0\MaquinaTragaperras-POO.exe
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\bin\Debug\net8.0\MaquinaTragaperras-POO.deps.json
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\bin\Debug\net8.0\MaquinaTragaperras-POO.runtimeconfig.json
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\bin\Debug\net8.0\MaquinaTragaperras-POO.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\bin\Debug\net8.0\MaquinaTragaperras-POO.pdb
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.AssemblyInfoInputs.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.AssemblyInfo.cs
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.csproj.CoreCompileInputs.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\refint\MaquinaTragaperras-POO.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.pdb
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\MaquinaTragaperras-POO.genruntimeconfig.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\MaquinaTragaperras-POO\MaquinaTragaperras-POO\obj\Debug\net8.0\ref\MaquinaTragaperras-POO.dll

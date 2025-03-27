@@ -1,0 +1,14 @@
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\bin\Debug\net8.0\Sintaxis-1.exe
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\bin\Debug\net8.0\Sintaxis-1.deps.json
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\bin\Debug\net8.0\Sintaxis-1.runtimeconfig.json
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\bin\Debug\net8.0\Sintaxis-1.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\bin\Debug\net8.0\Sintaxis-1.pdb
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.AssemblyInfoInputs.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.AssemblyInfo.cs
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.csproj.CoreCompileInputs.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\refint\Sintaxis-1.dll
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.pdb
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\Sintaxis-1.genruntimeconfig.cache
+C:\Users\jjros\Documents\Lemoncode\DataBase\Sintaxis-1\Sintaxis-1\obj\Debug\net8.0\ref\Sintaxis-1.dll

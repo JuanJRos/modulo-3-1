@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sintaxis-2", "Sintaxis-2\Sintaxis-2.csproj", "{ADAEDB71-5043-4987-9AB7-CF2A1A3A163E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADAEDB71-5043-4987-9AB7-CF2A1A3A163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAEDB71-5043-4987-9AB7-CF2A1A3A163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAEDB71-5043-4987-9AB7-CF2A1A3A163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAEDB71-5043-4987-9AB7-CF2A1A3A163E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66A1EF8-8F3D-4B15-BFB2-68EE9CB628E3}
+	EndGlobalSection
+EndGlobal
